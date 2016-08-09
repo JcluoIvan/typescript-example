@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "module": "amd",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "dist",
+        "outFile": "dist/app.js",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        "typings/tsd.d.ts"
+    ]
+}
